@@ -1,0 +1,1 @@
+let basic = "hello world";
